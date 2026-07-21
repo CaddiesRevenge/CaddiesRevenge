@@ -1,7 +1,7 @@
 # The Caddie's Revenge — deploy guide
 
 This folder is your app, ready to put on the internet. You do NOT need to
-install anything on your computer or type any commands. Just follow the steps.
+install anything on your computer or type any commands. Just follow the steps. 
 
 ## Step 1 — Put the code on GitHub
 
